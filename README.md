@@ -4,7 +4,7 @@ COMP 4004 Assignment 1
 Maab Ahmed
 100859207
 
-I have completed all but requirements (4) and (5). 
+I have completed all requirements
 
 Certain requirements like
 (3): Test to ensure there are 5 cards dealt to each player and (7) Invalid Id are covered by the CheckIdAndCards()
